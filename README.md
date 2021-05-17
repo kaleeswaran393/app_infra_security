@@ -3,6 +3,9 @@
 
 https://owasp.org/
 
+https://cheatsheetseries.owasp.org/Glossary.html
+
+
 https://www.immuniweb.com/technology/demo/   - tool and demo for penetration testing
 
 
