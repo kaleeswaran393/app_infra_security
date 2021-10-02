@@ -20,11 +20,16 @@ https://www.sans.org/top25-software-errors/
 https://www.cisecurity.org/cis-benchmarks/   - Center for internet security
 
 
+https://www.open-scap.org/download/   --https://www.open-scap.org/tools/openscap-base/#documentation
+
+
 https://github.com/aquasecurity/kube-bench - k8s
 
 
-
 https://www.jenkins.io/doc/tutorials/
+
+
+
 
 
 
