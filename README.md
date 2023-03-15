@@ -1,3 +1,8 @@
+
+# cypher security 
+
+https://accelerationeconomy.com/cybersecurity-top-10/
+
 # app_infra_security
 
 
