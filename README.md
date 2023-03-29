@@ -34,7 +34,9 @@ https://github.com/aquasecurity/kube-bench - k8s
 https://www.jenkins.io/doc/tutorials/
 
 
+## TEsting tools 
 
+Selenium, Karate, Microfocus UFT and katalon, browser stack , AWS device Form
 
 
 
