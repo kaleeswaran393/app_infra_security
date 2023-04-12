@@ -3,6 +3,10 @@
 
 https://accelerationeconomy.com/cybersecurity-top-10/
 
+https://www.csa.gov.sg/
+
+HTTPS://attack.mitre.org
+
 # app_infra_security
 
 
