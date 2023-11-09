@@ -2,8 +2,11 @@
 # Pen Test Certification
 
    Crest Certification   - https://www.crest-approved.org/skills-certifications-careers/crest-certifications/
+   
    Burp for service test -  https://portswigger.net/burp
+   
    Tenable for OS and application software CVE check
+   
    Snyk - CVE 
    
 # cypher security 
