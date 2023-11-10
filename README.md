@@ -6,6 +6,10 @@
    Burp for service test -  https://portswigger.net/burp
    
    Tenable for OS and application software CVE check
+
+   Zap for application testing
+
+   SonarQube
    
    Snyk - CVE 
    
