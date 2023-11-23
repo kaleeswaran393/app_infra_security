@@ -12,6 +12,9 @@
    SonarQube
    
    Snyk - CVE 
+
+   https://ine.com/learning/certifications/external/elearnsecurity-web-application-penetration-tester
+   https://www.offsec.com/courses/web-300/
    
 # cypher security 
 
