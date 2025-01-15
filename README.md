@@ -63,5 +63,8 @@ https://www.jenkins.io/doc/tutorials/
 
 Selenium, Karate, Microfocus UFT and katalon, browser stack , AWS device Form
 
+## Security Testing
+CISM, CCISP
+
 
 
