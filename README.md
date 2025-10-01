@@ -18,7 +18,7 @@
 
    https://www.offsec.com/courses/web-300/
    
-# cypher security 
+# cyber security 
 
 https://accelerationeconomy.com/cybersecurity-top-10/
 
