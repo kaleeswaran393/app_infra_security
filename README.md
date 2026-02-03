@@ -66,5 +66,20 @@ Selenium, Karate, Microfocus UFT and katalon, browser stack , AWS device Form
 ## Security Testing
 CISM, CCISP
 
+## Cyber Security Intelligent
+
+•	The Hacker News (feeds.feedburner.com/TheHackersNews)
+•	Dark Reading (darkreading.com)
+•	SANS ISC (isc.sans.edu) 
+•	SecurityWeek (securityweek.com/feed)
+•	Krebs on Security (krebsonsecurity.com)
+•	Cisco Talos (talosintelligence.com)
+•	https://unit42.paloaltonetworks.com/
+•	https://cribl.io/
+•	https://www.nccgroup.com/resource-hub/cyber-threat-intelligence-reports/
+•	https://ctoatncsc.substack.com/
+
+
+
 
 
